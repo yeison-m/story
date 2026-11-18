@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-the teacher is amazing sssss
-=======
-the teacher is amazing 
->>>>>>> fc31dd5be9797d1506a2a2d2366c4da6f50fcf69
+the teacher is amazing hello HELLO
